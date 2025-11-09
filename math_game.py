@@ -35,7 +35,7 @@ print("-----GAME OVER-----")
 print("well done!!")
 print("total time taken: " ,total_time,'sec')    
 print("total wrong answers:",wrong)
-
+print("try playing again!")
 
 
 
